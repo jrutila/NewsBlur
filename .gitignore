@@ -62,3 +62,6 @@ media/safari/NewsBlur.safariextz
 
 # IDE files
 clients/android/NewsBlur/.idea
+
+# Sailfish files
+clients/sailfish/NewsBlur/obj/*.o
